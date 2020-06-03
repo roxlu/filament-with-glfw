@@ -36,7 +36,7 @@ compiled you should see something as the image below.
 ## Building on Linux
 
 In this example I'm building the repository from a `tmp`
-dir in your home. Similar to the Windows build I've provided
+dir in your $HOME. Similar to the Windows build I've provided
 a `release.sh` file which you can run. Once Filament has
 been compiled you'll see a something as in the image below.
 
